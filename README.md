@@ -3,3 +3,5 @@
   
 - El primer reto que se nos plantea es el de introducir 2 objetos básicos proporcionados por el propio Unity. En mi caso he optado por incluir dos esferas y un cubo, a los cuales les he puesto una pequeña textura para que sean un poco mas visuales.
 ![Alt text](/img/esferas.png)
+
+- El segundo reto que se nos ha propuesto, es el de incluir un personaje como Ethan. Para poder incluir este personaje, tal y como ya lo indica el punto en el guion, 
